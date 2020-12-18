@@ -18,4 +18,4 @@ const chatDisplay = ()=>{
   console.log(li)  
 }
 
-form.addEventListener("onsubmit", chatDisplay)
+form.addEventListener("submit", chatDisplay)

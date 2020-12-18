@@ -86,7 +86,8 @@ p, dt{
 
 #messageForm{
     background-color: rgb(145, 218, 178);
-    position: absolute;
+    position: relative;
+    border: 2px black solid;
     bottom: 0;
     padding: 15px;
     width: 100%;
